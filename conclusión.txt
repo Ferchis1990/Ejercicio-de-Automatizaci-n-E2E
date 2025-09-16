@@ -1,0 +1,13 @@
+# Conclusiones del ejercicio
+
+1. Serenity BDD permite estructurar pruebas E2E de manera clara y mantenible.
+2. La página Demoblaze usa alertas (popups JS) que deben manejarse con Selenium correctamente.
+3. La validación de elementos debe incluir pausas o esperas explícitas en flujos reales.
+4. El framework genera reportes HTML claros y visuales ideales para seguimiento QA.
+
+Observaciones:
+- Es importante manejar correctamente el retorno al home después de agregar productos.
+- El flujo puede romperse si los elementos no están disponibles en pantalla (timing).
+
+Fecha de entrega: 15/09/2025
+Autor: [Tu Nombre]
