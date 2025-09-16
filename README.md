@@ -10,7 +10,7 @@
 ## Pasos para ejecutar:
 
 1. Clonar el repositorio:
-   git clone https://github.com/usuario/demoblaze-e2e-serenity.git
+   git clone https://github.com/Ferchis1990/Ejercicio-de-Automatizaci-n-E2E.git
    cd demoblaze-e2e-serenity
 
 2. Ejecutar pruebas:
