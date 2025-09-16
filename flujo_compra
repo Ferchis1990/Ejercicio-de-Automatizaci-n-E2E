@@ -1,0 +1,8 @@
+Feature: Flujo de compra en Demoblaze
+
+  Scenario: Usuario completa exitosamente un flujo de compra
+    Given el usuario navega a la tienda
+    When agrega dos productos al carrito
+    And visualiza el carrito
+    And completa el formulario de compra con datos válidos
+    Then finaliza la compra exitosamente
